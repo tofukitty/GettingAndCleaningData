@@ -1,7 +1,7 @@
 GettingAndCleaningData Course Project
 ======================================
 
-## **The R Script makes use of the following files from the UCI HAR Dataset**
+## **Code Book: The R Script makes use of the following files from the UCI HAR Dataset**
 
 
 * 'train/X_train.txt': Training set.
@@ -18,7 +18,7 @@ GettingAndCleaningData Course Project
 
 
 
-##**The R Script makes use of the following steps**
+##**How the Script works: The R Script does the following**
 
 
 Step 1: Downloads the zip file to the working directory and unzips it
