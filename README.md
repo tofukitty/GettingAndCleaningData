@@ -1,7 +1,7 @@
 GettingAndCleaningData Course Project
 ======================================
 
-# **The R Script makes use of the following files from the UCI HAR Dataset**
+## **The R Script makes use of the following files from the UCI HAR Dataset**
 
 * 'activity_labels.txt'
 
