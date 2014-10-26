@@ -3,19 +3,19 @@ GettingAndCleaningData Course Project
 
 ## **The R Script makes use of the following files from the UCI HAR Dataset**
 
-* 'activity_labels.txt'
 
-* 'train/X_train.txt'
+* 'train/X_train.txt': Training set.
 
-* 'train/y_train.txt'
+* 'train/y_train.txt': Training labels.
 
-* 'train/subject_train.txt’
+* 'test/X_test.txt': Test set.
 
-* 'test/X_test.txt'
+* 'test/y_test.txt': Test labels.
 
-* 'test/y_test.txt'
+* 'train/subject_train.txt’: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-* 'test/subject_test.txt’
+* 'test/subject_test.txt’: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
 
 
 ##**The R Script makes use of the following steps**
